@@ -3,13 +3,13 @@
 An easy to use server manager for Assetto Corsa where you can find different private servers and their password.
 Some servers are for casual driving / practincing, while some others are competitive tournaments with races fixed months in advance, for those drivers who want to keep it real.
 
-**Owners:** [Green Onion Studios](https://greenonionstudios.github.io)
-**Contributors:** (this should be a list of wordpress.org userid's)  
-**Requirements:** WordPress 4.4   
-**Stable tag:** 1.2  
-**Version:** 1.2  
-**License:** GPLv2 or later    
+**Created by:**  Román Delgado & Alessandro Granadino
+**Requirements:** None
+**Version:** v0.1
+**Stable V:** v0.1  
+**License:** The Unlisence   
 **Tags:** one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+**Owners:** [Green Onion Studios](https://greenonionstudios.github.io)
 
 ## Table of contents
 explains the content of this file
