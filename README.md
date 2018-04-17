@@ -1,18 +1,18 @@
-# EtherweldMotorsports
 
-# Project Title
+# Etherweld Motorsports
+An easy to use server manager for Assetto Corsa where you can find different private servers and their password.
+Some servers are for casual driving / practincing, while some others are competitive tournaments with races fixed months in advance, for those drivers who want to keep it real.
 
-One Paragraph of project description goes here
-
-
+**Owners:** [Green Onion Studios](https://greenonionstudios.github.io) 
 **Contributors:** (this should be a list of wordpress.org userid's)  
-**Requires at least:** WordPress 4.4  
-**Tested up to:** WordPress 4.7  
+**Requirements:** WordPress 4.4   
 **Stable tag:** 1.2  
 **Version:** 1.2  
-**License:** GPLv2 or later  
-**License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
+**License:** GPLv2 or later    
 **Tags:** one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+
+## Table of contents
+explains the content of this file
 
 
 ## Getting Started
@@ -45,29 +45,6 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
@@ -117,6 +94,9 @@ Source: https://unsplash.com/@englr?photo=bIhpiQA009k
 * A question that someone might have?
  
 An answer to that question.
+
+## If you want to raplicate it
+sff
 
 ## Changelog
 
