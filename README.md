@@ -4,6 +4,17 @@
 
 One Paragraph of project description goes here
 
+
+**Contributors:** (this should be a list of wordpress.org userid's)  
+**Requires at least:** WordPress 4.4  
+**Tested up to:** WordPress 4.7  
+**Stable tag:** 1.2  
+**Version:** 1.2  
+**License:** GPLv2 or later  
+**License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
+**Tags:** one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -82,8 +93,34 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+
+normalize.css, Copyright 2012-2016 Nicolas Gallagher and Jonathan Neal
+**License:** MIT
+Source: https://necolas.github.io/normalize.css/
+
+Font Awesome icons, Copyright Dave Gandy
+**License:** SIL Open Font License, version 1.1.
+Source: http://fontawesome.io/
+
+Bundled header image, Copyright Alvin Engler
+**License:** CC0 1.0 Universal (CC0 1.0)
+Source: https://unsplash.com/@englr?photo=bIhpiQA009k
+
 ## Acknowledgments
 
 * Hat tip to anyone who's code was used
 * Inspiration
 * etc
+
+## Frequently Asked Questions
+
+* A question that someone might have?
+ 
+An answer to that question.
+
+## Changelog
+
+### 1.0
+* Released: December 6, 2016
+
+Initial release
