@@ -3,19 +3,26 @@
 An easy to use server manager for Assetto Corsa where you can find different private servers and their password.
 Some servers are for casual driving / practincing, while some others are competitive tournaments with races fixed months in advance, for those drivers who want to keep it real.
 
-**Created by:**  Román Delgado & Alessandro Granadino
-**Requirements:** None
-**Version:** v0.1
-**Stable V:** v0.1  
-**License:** The Unlisence   
-**Tags:** one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
-**Owners:** [Green Onion Studios](https://greenonionstudios.github.io)
+## TABLE OF CONTENTS
 
-## Table of contents
-explains the content of this file
+1. Getting Started
+2. Authors ([Green Onion Studios](https://greenonionstudios.github.io))
+3. Acknowledgments
+4. Contributing
+5. Versioning
+6. License
+7. FAQ
+8. Changelog
 
 
-## Getting Started
+Take me to [pookie](#pookie)
+
+
+
+
+
+
+(## 1. Getting Started)
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
@@ -44,6 +51,20 @@ until finished
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
+
+
+
+
+** Created by: Román Delgado & Alessandro Granadino
+** Requirements: None
+**Version:** v0.1
+**Stable V:** v0.1  
+**License:** The Unlisence   
+**Tags:** one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+**Owners:** [Green Onion Studios](https://greenonionstudios.github.io)
+
+
+
 
 
 ## Built With
@@ -89,6 +110,7 @@ Source: https://unsplash.com/@englr?photo=bIhpiQA009k
 * Inspiration
 * etc
 
+<a name="pookie"></a>
 ## Frequently Asked Questions
 
 * A question that someone might have?
