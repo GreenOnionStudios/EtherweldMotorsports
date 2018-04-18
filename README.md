@@ -57,13 +57,13 @@ We are a small developer studio located in Spain (Mallorca - Barcelona)
 * Contact: rdelgado.workshop@gmail.com
 
 #### Developed by
-* Román Delgado - rdelgado.workshop@gmail.com
+* *Román Delgado* - **Owner** - rdelgado.workshop@gmail.com
 
-* Alessandro Granadino - agranadinob@alu.colegiomontesion.es
+* *Alessandro Granadino* - **Admin** - agranadinob@alu.colegiomontesion.es
 
 #### Contributors
 
-* None for now
+* *None for now*
 
 <a name="3"></a>
 ## Acknowledgments
