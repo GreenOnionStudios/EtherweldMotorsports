@@ -6,7 +6,7 @@ Some servers are for casual driving / practincing, while some others are competi
 ### TABLE OF CONTENTS
 
 [1. Getting Started](#1)
-[2. Authors](#2)
+* [2. Authors](#2)
 [3. Acknowledgments](#3)
 [4. Contributing](#4)
 [5. Versioning](#5)
