@@ -48,18 +48,18 @@ End with an example of getting some data out of the system or using it for a lit
 <a name="2"></a>
 ## Authors
 
-This Repository was created by GREEN ONION STUDIOS
+This Repository was created by **GREEN ONION STUDIOS**
 
-We are a small developer studio located in Spain (Mallorca - Barcelona)
+We are a small developer studio located in Spain *(Mallorca - Barcelona)*
 
 * Website: [greenonionstudios.github.io](http://greenonionstudios.github.io)
 
 * Contact: rdelgado.workshop@gmail.com
 
 #### Developed by
-* *Román Delgado* - **Owner** - rdelgado.workshop@gmail.com
+* *Román Delgado* - rdelgado.workshop@gmail.com - **Owner**
 
-* *Alessandro Granadino* - **Admin** - agranadinob@alu.colegiomontesion.es
+* *Alessandro Granadino* - agranadinob@alu.colegiomontesion.es - **Admin**
 
 #### Contributors
 
@@ -67,6 +67,10 @@ We are a small developer studio located in Spain (Mallorca - Barcelona)
 
 <a name="3"></a>
 ## Acknowledgments
+
+* Web Template - [Tooplate](http://greenonionstudios.github.io)
+* Code Writing - [Atom](https://atom.io/)
+* Code Managing - [Atom](https://atom.io/)
 
 <a name="4"></a>
 ## Contributing
