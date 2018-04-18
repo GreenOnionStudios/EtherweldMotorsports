@@ -68,7 +68,7 @@ We are a small developer studio located in Spain *(Mallorca - Barcelona)*
 <a name="3"></a>
 ## Acknowledgments
 
-### BUILT USING
+#### BUILT USING
 
 * Web Template - [Tooplate](http://greenonionstudios.github.io)
 * Code Writing - [Atom](https://atom.io/)
@@ -76,7 +76,7 @@ We are a small developer studio located in Spain *(Mallorca - Barcelona)*
 * Server Creation - [Asetto Corsa](http://store.steampowered.com/app/244210/Assetto_Corsa/)
 * Server Hosting -  
 
-### OTHER
+#### OTHER
 * Backgroud video - [Ph0b0s95](https://www.youtube.com/watch?v=rIRBsRuU0Vg)
 
 <a name="4"></a>
@@ -119,7 +119,7 @@ A: Lorem ipsum dolor sit amet, consectetur adipiscing.
 
 
 
-### 1.0
+#### 1.0
 * Released: April 18, 2018
 
 Initial release
