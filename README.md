@@ -18,7 +18,7 @@ Some servers are for casual driving / practincing, while some others are competi
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+#### Prerequisites
 
 What things you need to install the software and how to install them
 
@@ -26,7 +26,7 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
-### Installing
+#### Installing
 
 A step by step series of examples that tell you have to get a development env running
 
@@ -116,10 +116,8 @@ A: Lorem ipsum dolor sit amet, consectetur adipiscing.
 <a name="8"></a>
 ## Changelog
 
+#### 1.0.0 [Pre-release]
+* Dated: April 18, 2018 - [See in repository](https://github.com/GreenOnionStudios/EtherweldMotorsports/releases/tag/v1.0.0)
 
 
 
-#### 1.0
-* Released: April 18, 2018
-
-Initial release
