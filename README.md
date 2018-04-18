@@ -53,10 +53,12 @@ This Repository was created by GREEN ONION STUDIOS
 We are a small developer studio located in Spain (Mallorca - Barcelona)
 
 Website: [greenonionstudios.github.io](http://greenonionstudios.github.io)
+
 Contact: rdelgado.workshop@gmail.com
 
 #### Developed by
 Román Delgado - rdelgado.workshop@gmail.com
+
 Alessandro Granadino - agranadinob@alu.colegiomontesion.es
 
 <a name="3"></a>
