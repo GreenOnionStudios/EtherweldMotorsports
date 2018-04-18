@@ -5,14 +5,14 @@ Some servers are for casual driving / practincing, while some others are competi
 
 ### TABLE OF CONTENTS
 
-[1. Getting Started](#1)
-* [2. Authors](#2)
-[3. Acknowledgments](#3)
-[4. Contributing](#4)
-[5. Versioning](#5)
-[6. License](#6)
-[7. FAQ](#7)
-[8. Changelog](#8)
+* [Getting Started](#1)
+* [Authors](#2)
+* [Acknowledgments](#3)
+* [Contributing](#4)
+* [Versioning](#5)
+* [License](#6)
+* [FAQ](#7)
+* [Changelog](#8)
 
 <a name="1"></a>
 ## 1. Getting Started
