@@ -3,7 +3,7 @@
 An easy to use server manager for Assetto Corsa where you can find different private servers and their password.
 Some servers are for casual driving / practincing, while some others are competitive tournaments with races fixed months in advance, for those drivers who want to keep it real.
 
-### TABLE OF CONTENTS
+#### TABLE OF CONTENTS
 
 * [Getting Started](#1)
 * [Authors](#2)
@@ -48,9 +48,14 @@ End with an example of getting some data out of the system or using it for a lit
 <a name="2"></a>
 ## Authors
 
-This Repository was created by GREEN ONION STUDIOS,
-a small developer studio located in Spain (Mallorca - Barcelona) 
+This Repository was created by GREEN ONION STUDIOS
+
+We are a small developer studio located in Spain (Mallorca - Barcelona)
+
 Website: [greenonionstudios.github.io](http://greenonionstudios.github.io)
+
+#### Developed by
+Román Delgado @romandelg rdelgado.workshop@gmail.com
 
 <a name="3"></a>
 ## Acknowledgments
