@@ -68,9 +68,11 @@ We are a small developer studio located in Spain *(Mallorca - Barcelona)*
 <a name="3"></a>
 ## Acknowledgments
 
+### BUILT USING
+
 * Web Template - [Tooplate](http://greenonionstudios.github.io)
 * Code Writing - [Atom](https://atom.io/)
-* Code Managing - [Atom](https://atom.io/)
+* Code Managing - [Atom](https://github.com/)
 
 <a name="4"></a>
 ## Contributing
