@@ -15,29 +15,7 @@ Some servers are for casual driving / practincing, while some others are competi
 * [Changelog](#8)
 
 <a name="1"></a>
-## 1. Getting Started
-
-<a name="2"></a>
-## 2. Authors
-
-<a name="3"></a>
-## 3. Acknowledgments
-
-<a name="4"></a>
-## 4. Contributing
-
-<a name="5"></a>
-## 5. Versioning
-
-<a name="6"></a>
-## 6. License
-
-<a name="7"></a>
-## 7. Frequently Asqued Questions
-
-<a name="8"></a>
-## 8. Getting Started
-
+## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
@@ -65,6 +43,33 @@ until finished
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
+
+
+<a name="2"></a>
+## Authors
+
+This Repository was created by GREEN ONION STUDIOS,
+a small developer studio located in Spain (Mallorca - Barcelona) 
+Website: [greenonionstudios.github.io](http://greenonionstudios.github.io)
+
+<a name="3"></a>
+## Acknowledgments
+
+<a name="4"></a>
+## Contributing
+
+<a name="5"></a>
+## Versioning
+
+<a name="6"></a>
+## License
+
+<a name="7"></a>
+## Frequently Asqued Questions
+
+<a name="8"></a>
+## Getting Started
+
 
 
 
