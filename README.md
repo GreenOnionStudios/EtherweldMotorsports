@@ -3,26 +3,40 @@
 An easy to use server manager for Assetto Corsa where you can find different private servers and their password.
 Some servers are for casual driving / practincing, while some others are competitive tournaments with races fixed months in advance, for those drivers who want to keep it real.
 
-## TABLE OF CONTENTS
+### TABLE OF CONTENTS
 
-1. Getting Started
-2. Authors ([Green Onion Studios](https://greenonionstudios.github.io))
-3. Acknowledgments
-4. Contributing
-5. Versioning
-6. License
-7. FAQ
-8. Changelog
+[1. Getting Started](#1)
+[2. Authors](#2)
+[3. Acknowledgments](#3)
+[4. Contributing](#4)
+[5. Versioning](#5)
+[6. License](#6)
+[7. FAQ](#7)
+[8. Changelog](#8)
 
+<a name="1"></a>
+## 1. Getting Started
 
-Take me to [pookie](#pookie)
+<a name="2"></a>
+## 2. Authors
 
+<a name="3"></a>
+## 3. Acknowledgments
 
+<a name="4"></a>
+## 4. Contributing
 
+<a name="5"></a>
+## 5. Versioning
 
+<a name="6"></a>
+## 6. License
 
+<a name="7"></a>
+## 7. Frequently Asqued Questions
 
-(## 1. Getting Started)
+<a name="8"></a>
+## 8. Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
@@ -110,7 +124,7 @@ Source: https://unsplash.com/@englr?photo=bIhpiQA009k
 * Inspiration
 * etc
 
-<a name="pookie"></a>
+
 ## Frequently Asked Questions
 
 * A question that someone might have?
