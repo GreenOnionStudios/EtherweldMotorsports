@@ -106,11 +106,11 @@ Source: https://unsplash.com/@englr?photo=bIhpiQA009k
 
 <a name="7"></a>
 ## Frequently Asqued Questions
-Q: Lorem ipsum dolor sit amet, consectetur adipiscing.
-A: Lorem ipsum dolor sit amet, consectetur.
+* Q: Lorem ipsum dolor sit amet, consectetur adipiscing.
+  * A: Lorem ipsum dolor sit amet, consectetur.
 
-Q: Lorem ipsum dolor sit amet.
-A: Lorem ipsum dolor sit amet, consectetur adipiscing.
+* Q: Lorem ipsum dolor sit amet.
+  * A: Lorem ipsum dolor sit amet, consectetur adipiscing.
 
 
 <a name="8"></a>
