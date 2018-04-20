@@ -18,7 +18,7 @@ Some servers are for casual driving / practincing, while some others are competi
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+#### Prerequisites
 
 What things you need to install the software and how to install them
 
@@ -26,7 +26,7 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
-### Installing
+#### Installing
 
 A step by step series of examples that tell you have to get a development env running
 
@@ -48,7 +48,7 @@ End with an example of getting some data out of the system or using it for a lit
 <a name="2"></a>
 ## Authors
 
-This Repository was created by **GREEN ONION STUDIOS**
+This Repository belongs to **GREEN ONION STUDIOS**
 
 We are a small developer studio located in Spain *(Mallorca - Barcelona)*
 
@@ -56,77 +56,39 @@ We are a small developer studio located in Spain *(Mallorca - Barcelona)*
 
 * Contact: rdelgado.workshop@gmail.com
 
-#### Developed by
+#### Created by
 * *Román Delgado* - rdelgado.workshop@gmail.com - **Owner**
 
 * *Alessandro Granadino* - agranadinob@alu.colegiomontesion.es - **Admin**
 
 #### Contributors
+[See list](https://github.com/GreenOnionStudios/EtherweldMotorsports/graphs/contributors)
 
-* *None for now*
 
 <a name="3"></a>
 ## Acknowledgments
 
-### BUILT USING
+#### BUILT USING
 
 * Web Template - [Tooplate](http://greenonionstudios.github.io)
 * Code Writing - [Atom](https://atom.io/)
-* Code Managing - [Atom](https://github.com/)
+* Code Managing - [Github](https://github.com/)
+* Server Creation - [Asetto Corsa](http://store.steampowered.com/app/244210/Assetto_Corsa/)
+* Server Hosting -  
+
+#### OTHER
+* Backgroud video - [Ph0b0s95](https://www.youtube.com/watch?v=rIRBsRuU0Vg)
 
 <a name="4"></a>
 ## Contributing
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us. Be aware that in order to pull into the main branch, an admin or owner must review and agree with your pull request.
 
 <a name="5"></a>
 ## Versioning
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/GreenOnionStudios/EtherweldMotorsports/tags). 
 
 <a name="6"></a>
 ## License
-
-<a name="7"></a>
-## Frequently Asqued Questions
-
-<a name="8"></a>
-## Getting Started
-
-
-
-
-
-** Created by: Román Delgado & Alessandro Granadino
-** Requirements: None
-**Version:** v0.1
-**Stable V:** v0.1  
-**License:** The Unlisence   
-**Tags:** one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
-**Owners:** [Green Onion Studios](https://greenonionstudios.github.io)
-
-
-
-
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 
@@ -142,25 +104,20 @@ Bundled header image, Copyright Alvin Engler
 **License:** CC0 1.0 Universal (CC0 1.0)
 Source: https://unsplash.com/@englr?photo=bIhpiQA009k
 
-## Acknowledgments
+<a name="7"></a>
+## Frequently Asqued Questions
+* Q: Lorem ipsum dolor sit amet, consectetur adipiscing.
+  * A: Lorem ipsum dolor sit amet, consectetur.
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Q: Lorem ipsum dolor sit amet.
+  * A: Lorem ipsum dolor sit amet, consectetur adipiscing.
 
 
-## Frequently Asked Questions
-
-* A question that someone might have?
- 
-An answer to that question.
-
-## If you want to raplicate it
-sff
-
+<a name="8"></a>
 ## Changelog
 
-### 1.0
-* Released: December 6, 2016
+#### 1.0.0 [Pre-release]
+* Dated: April 18, 2018 - [See in repository](https://github.com/GreenOnionStudios/EtherweldMotorsports/releases/tag/v1.0.0)
 
-Initial release
+
+
