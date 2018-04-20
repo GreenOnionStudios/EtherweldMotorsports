@@ -21,7 +21,7 @@ html, body {
 }
 
 /*---------------------------------------
-  TYPOGRAPHY              
+  TYPOGRAPHY
 -----------------------------------------*/
 
 h1,h2,h3,h4,h5,h6 {
@@ -69,7 +69,7 @@ p {
 
 
 /*---------------------------------------
-  BUTTONS               
+  BUTTONS
 -----------------------------------------*/
 
 .section-btn {
@@ -146,12 +146,12 @@ p {
 
 .csstransforms3d .section-btn button:hover span::before,
 .csstransforms3d .section-btn button:hover span::before {
-  background: #000000;  
+  background: #000000;
 }
 
 
 /*---------------------------------------
-  GENERAL               
+  GENERAL
 -----------------------------------------*/
 
 html{
@@ -214,7 +214,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  PRE LOADER              
+  PRE LOADER
 -----------------------------------------*/
 
 .preloader {
@@ -263,7 +263,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  MENU             
+  MENU
 -----------------------------------------*/
 
 .custom-navbar {
@@ -273,7 +273,7 @@ a:hover, a:active, a:focus {
 }
 
 .custom-navbar .navbar-brand {
-  color: #f9f9f9;
+  color: #4dc47d;
   font-weight: normal;
   font-size: 25px;
 }
@@ -281,7 +281,7 @@ a:hover, a:active, a:focus {
 .custom-navbar .nav li a {
   font-size: 14px;
   font-weight: normal;
-  color: #f9f9f9;
+  color: #4dc47d;
   letter-spacing: 0.5px;
   -webkit-transition: all ease-in-out 0.4s;
   transition: all ease-in-out 0.4s;
@@ -292,8 +292,8 @@ a:hover, a:active, a:focus {
 
 .custom-navbar .navbar-nav > li > a:hover,
 .custom-navbar .navbar-nav > li > a:focus {
-  background-color: transparent;
-  color: #ffffff;
+  
+  color: #4dc47d;
 }
 
 .custom-navbar .navbar-nav li a:after {
@@ -335,7 +335,7 @@ a:hover, a:active, a:focus {
 
 @media(min-width:768px) {
   .custom-navbar {
-    background: 0 0; 
+    background: 0 0;
   }
   .custom-navbar.top-nav-collapse {
     background: #4dc47d;
@@ -345,7 +345,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  HOME             
+  HOME
 -----------------------------------------*/
 
 #home {
@@ -399,7 +399,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  ABOUT              
+  ABOUT
 -----------------------------------------*/
 
 #about {
@@ -416,7 +416,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  RULES               
+  RULES
 -----------------------------------------*/
 
 #rules {
@@ -432,7 +432,7 @@ a:hover, a:active, a:focus {
 }
 
 /*---------------------------------------
-  PROJECT              
+  PROJECT
 -----------------------------------------*/
 
 .project-item {
@@ -487,7 +487,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-   SERVERS             
+   SERVERS
 -----------------------------------------*/
 
 #servers .item {
@@ -549,7 +549,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  LOGIN             
+  LOGIN
 -----------------------------------------*/
 
 #login {
@@ -600,7 +600,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  FOOTER              
+  FOOTER
 -----------------------------------------*/
 
 footer {
@@ -623,7 +623,7 @@ footer .copyright-text {
 
 
 /*---------------------------------------
-  SOCIAL ICON             
+  SOCIAL ICON
 -----------------------------------------*/
 
 .social-icon {
@@ -659,7 +659,7 @@ footer .copyright-text {
 
 
 /*---------------------------------------
-  MOBILE RESPONSIVE              
+  MOBILE RESPONSIVE
 -----------------------------------------*/
 
 @media (max-width: 992px) {
