@@ -273,7 +273,7 @@ a:hover, a:active, a:focus {
 }
 
 .custom-navbar .navbar-brand {
-  color: #4dc47d;
+  color: #f9f9f9;
   font-weight: normal;
   font-size: 25px;
 }
@@ -281,7 +281,7 @@ a:hover, a:active, a:focus {
 .custom-navbar .nav li a {
   font-size: 14px;
   font-weight: normal;
-  color: #4dc47d;
+  color: #f9f9f9;
   letter-spacing: 0.5px;
   -webkit-transition: all ease-in-out 0.4s;
   transition: all ease-in-out 0.4s;
@@ -292,8 +292,8 @@ a:hover, a:active, a:focus {
 
 .custom-navbar .navbar-nav > li > a:hover,
 .custom-navbar .navbar-nav > li > a:focus {
-  
-  color: #4dc47d;
+  background-color: transparent;
+  color: #ffffff;
 }
 
 .custom-navbar .navbar-nav li a:after {
