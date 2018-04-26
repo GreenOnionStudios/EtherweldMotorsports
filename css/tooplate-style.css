@@ -21,7 +21,7 @@ html, body {
 }
 
 /*---------------------------------------
-  TYPOGRAPHY              
+  TYPOGRAPHY
 -----------------------------------------*/
 
 h1,h2,h3,h4,h5,h6 {
@@ -68,7 +68,7 @@ p {
 
 
 /*---------------------------------------
-  BUTTONS               
+  BUTTONS
 -----------------------------------------*/
 
 .section-btn {
@@ -145,12 +145,12 @@ p {
 
 .csstransforms3d .section-btn button:hover span::before,
 .csstransforms3d .section-btn button:hover span::before {
-  background: #000000;  
+  background: #000000;
 }
 
 
 /*---------------------------------------
-  GENERAL               
+  GENERAL
 -----------------------------------------*/
 
 html{
@@ -218,7 +218,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  PRE LOADER              
+  PRE LOADER
 -----------------------------------------*/
 
 .preloader {
@@ -267,7 +267,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  MENU             
+  MENU
 -----------------------------------------*/
 
 .custom-navbar {
@@ -339,7 +339,7 @@ a:hover, a:active, a:focus {
 
 @media(min-width:768px) {
   .custom-navbar {
-    background: 0 0; 
+    background: 0 0;
   }
   .custom-navbar.top-nav-collapse {
     background: #4dc47d;
@@ -349,7 +349,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  HOME             
+  HOME
 -----------------------------------------*/
 
 #home {
@@ -403,7 +403,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  ABOUT              
+  ABOUT
 -----------------------------------------*/
 
 #about {
@@ -420,7 +420,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  RULES               
+  RULES
 -----------------------------------------*/
 
 #rules {
@@ -443,7 +443,7 @@ a:hover, a:active, a:focus {
 }
 
 /*---------------------------------------
-  PROJECT              
+  PROJECT
 -----------------------------------------*/
 
 .project-item {
@@ -498,7 +498,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-   SERVERS             
+   SERVERS
 -----------------------------------------*/
 
 #servers .item {
@@ -560,7 +560,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  LOGIN             
+  LOGIN
 -----------------------------------------*/
 
 #login {
@@ -611,7 +611,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  FOOTER              
+  FOOTER
 -----------------------------------------*/
 
 footer {
@@ -634,7 +634,7 @@ footer .copyright-text {
 
 
 /*---------------------------------------
-  SOCIAL ICON             
+  SOCIAL ICON
 -----------------------------------------*/
 
 .social-icon {
@@ -670,7 +670,7 @@ footer .copyright-text {
 
 
 /*---------------------------------------
-  MOBILE RESPONSIVE              
+  MOBILE RESPONSIVE
 -----------------------------------------*/
 
 @media (max-width: 992px) {
