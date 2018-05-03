@@ -418,6 +418,24 @@ a:hover, a:active, a:focus {
   margin: 0;
 }
 
+.column1 {
+  float: left;
+  width: 54.4%;
+  padding: 5px;
+}
+
+.column2 {
+  float: right;
+  width: 45.6%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 
 /*---------------------------------------
   RULES
