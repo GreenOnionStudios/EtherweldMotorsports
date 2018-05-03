@@ -17,8 +17,5 @@ $headers = 'From: ' . $_POST["name"] . '<' . $_POST["email"] . '>' . "\r\n" .
 
   //
   mail( "romandelg@gmail.com", $_POST['subject'], $_POST['message'], $headers );
- 
-  //      ^
-  //  Replace with your email 
 }
 ?>
