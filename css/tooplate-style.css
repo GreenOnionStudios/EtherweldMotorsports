@@ -21,7 +21,7 @@ html, body {
 }
 
 /*---------------------------------------
-  TYPOGRAPHY              
+  TYPOGRAPHY
 -----------------------------------------*/
 
 h1,h2,h3,h4,h5,h6 {
@@ -52,7 +52,6 @@ h4 {
   line-height: 28px;
 }
 
-
 h5 {
   font-size: 60px;
   font-weight: 200;
@@ -61,7 +60,7 @@ h5 {
 
 p {
   color: #757575;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 300;
   line-height: 29px;
   letter-spacing: 0.5px;
@@ -69,7 +68,7 @@ p {
 
 
 /*---------------------------------------
-  BUTTONS               
+  BUTTONS
 -----------------------------------------*/
 
 .section-btn {
@@ -146,12 +145,12 @@ p {
 
 .csstransforms3d .section-btn button:hover span::before,
 .csstransforms3d .section-btn button:hover span::before {
-  background: #000000;  
+  background: #000000;
 }
 
 
 /*---------------------------------------
-  GENERAL               
+  GENERAL
 -----------------------------------------*/
 
 html{
@@ -205,16 +204,21 @@ a:hover, a:active, a:focus {
   background: #ffffff;
 }
 
-#about, #rules,
-#servers, #login {
+#about, #servers, #login {
   padding-top: 100px;
   padding-bottom: 100px;
   text-align: center;
 }
 
+#rules {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  text-align: left;
+}
+
 
 /*---------------------------------------
-  PRE LOADER              
+  PRE LOADER
 -----------------------------------------*/
 
 .preloader {
@@ -263,7 +267,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  MENU             
+  MENU
 -----------------------------------------*/
 
 .custom-navbar {
@@ -335,7 +339,7 @@ a:hover, a:active, a:focus {
 
 @media(min-width:768px) {
   .custom-navbar {
-    background: 0 0; 
+    background: 0 0;
   }
   .custom-navbar.top-nav-collapse {
     background: #4dc47d;
@@ -345,7 +349,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  HOME             
+  HOME
 -----------------------------------------*/
 
 #home {
@@ -399,7 +403,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  ABOUT              
+  ABOUT
 -----------------------------------------*/
 
 #about {
@@ -414,9 +418,27 @@ a:hover, a:active, a:focus {
   margin: 0;
 }
 
+.column1 {
+  float: left;
+  width: 54.4%;
+  padding: 5px;
+}
+
+.column2 {
+  float: right;
+  width: 45.6%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 
 /*---------------------------------------
-  RULES               
+  RULES
 -----------------------------------------*/
 
 #rules {
@@ -431,8 +453,15 @@ a:hover, a:active, a:focus {
   margin: 0;
 }
 
+.about-info h5 {
+  font-size: 60px;
+  font-weight: 200;
+  line-height: 50px;
+  text-align: center;
+}
+
 /*---------------------------------------
-  PROJECT              
+  PROJECT
 -----------------------------------------*/
 
 .project-item {
@@ -487,7 +516,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-   SERVERS             
+   SERVERS
 -----------------------------------------*/
 
 #servers .item {
@@ -549,7 +578,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  LOGIN             
+  LOGIN
 -----------------------------------------*/
 
 #login {
@@ -600,7 +629,7 @@ a:hover, a:active, a:focus {
 
 
 /*---------------------------------------
-  FOOTER              
+  FOOTER
 -----------------------------------------*/
 
 footer {
@@ -623,7 +652,7 @@ footer .copyright-text {
 
 
 /*---------------------------------------
-  SOCIAL ICON             
+  SOCIAL ICON
 -----------------------------------------*/
 
 .social-icon {
@@ -659,7 +688,7 @@ footer .copyright-text {
 
 
 /*---------------------------------------
-  MOBILE RESPONSIVE              
+  MOBILE RESPONSIVE
 -----------------------------------------*/
 
 @media (max-width: 992px) {

@@ -1,14 +1,24 @@
-# EtherweldMotorsports
 
-# Project Title
+# Etherweld Motorsports
+An easy to use server manager for Assetto Corsa where you can find different private servers and their password.
+Some servers are for casual driving / practincing, while some others are competitive tournaments with races fixed months in advance, for those drivers who want to keep it real.
 
-One Paragraph of project description goes here
+#### TABLE OF CONTENTS
 
+* [Getting Started](#1)
+* [Authors](#2)
+* [Acknowledgments](#3)
+* [Contributing](#4)
+* [Versioning](#5)
+* [License](#6)
+* [FAQ](#7)
+* [Changelog](#8)
+
+<a name="1"></a>
 ## Getting Started
-
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+#### Prerequisites
 
 What things you need to install the software and how to install them
 
@@ -16,7 +26,7 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
-### Installing
+#### Installing
 
 A step by step series of examples that tell you have to get a development env running
 
@@ -34,56 +44,80 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
+<a name="2"></a>
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+This Repository belongs to **GREEN ONION STUDIOS**
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+We are a small developer studio located in Spain *(Mallorca - Barcelona)*
 
-## License
+* Website: [greenonionstudios.github.io](http://greenonionstudios.github.io)
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+* Contact: rdelgado.workshop@gmail.com
 
+#### Created by
+* *Román Delgado* - rdelgado.workshop@gmail.com - **Owner**
+
+* *Alessandro Granadino* - agranadinob@alu.colegiomontesion.es - **Admin**
+
+#### Contributors
+[See list](https://github.com/GreenOnionStudios/EtherweldMotorsports/graphs/contributors)
+
+
+<a name="3"></a>
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+#### BUILT USING
+
+* Web Template - [Tooplate](http://greenonionstudios.github.io)
+* Code Writing - [Atom](https://atom.io/)
+* Code Managing - [Github](https://github.com/)
+* Server Creation - [Asetto Corsa](http://store.steampowered.com/app/244210/Assetto_Corsa/)
+* Server Hosting -  
+
+#### OTHER
+* Backgroud video - [Ph0b0s95](https://www.youtube.com/watch?v=rIRBsRuU0Vg)
+
+<a name="4"></a>
+## Contributing
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us. Be aware that in order to pull into the main branch, an admin or owner must review and agree with your pull request.
+
+<a name="5"></a>
+## Versioning
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/GreenOnionStudios/EtherweldMotorsports/tags). 
+
+<a name="6"></a>
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
+normalize.css, Copyright 2012-2016 Nicolas Gallagher and Jonathan Neal
+**License:** MIT
+Source: https://necolas.github.io/normalize.css/
+
+Font Awesome icons, Copyright Dave Gandy
+**License:** SIL Open Font License, version 1.1.
+Source: http://fontawesome.io/
+
+Bundled header image, Copyright Alvin Engler
+**License:** CC0 1.0 Universal (CC0 1.0)
+Source: https://unsplash.com/@englr?photo=bIhpiQA009k
+
+<a name="7"></a>
+## Frequently Asqued Questions
+* Q: Lorem ipsum dolor sit amet, consectetur adipiscing.
+  * A: Lorem ipsum dolor sit amet, consectetur.
+
+* Q: Lorem ipsum dolor sit amet.
+  * A: Lorem ipsum dolor sit amet, consectetur adipiscing.
+
+
+<a name="8"></a>
+## Changelog
+
+#### 1.0.0 [Pre-release]
+* Dated: April 18, 2018 - [See in repository](https://github.com/GreenOnionStudios/EtherweldMotorsports/releases/tag/v1.0.0)
+
+
+
